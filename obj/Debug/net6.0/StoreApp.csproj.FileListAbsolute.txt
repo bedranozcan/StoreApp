@@ -19,3 +19,5 @@ C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\refin
 C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.pdb
 C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.genruntimeconfig.cache
 C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\ref\StoreApp.dll
+C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cache
+C:\Users\bedra\source\repos\BtkAkademi\MVC\Store\StoreApp\obj\Debug\net6.0\StoreApp.RazorAssemblyInfo.cs
